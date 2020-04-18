@@ -1,2 +1,2 @@
 this is a dll file of a Application.
-this is vertion 1.0 
+this is vertion 2.0 
